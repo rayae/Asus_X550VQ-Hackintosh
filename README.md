@@ -1,4 +1,4 @@
-# Asus_X550VQ 黑苹果EFI
+# 华硕 X550VQ 黑苹果EFI
 Hackintosh for Asus X550VQ (HM170)
 
 ### 兼容性
@@ -30,7 +30,7 @@ Hackintosh for Asus X550VQ (HM170)
 - 原生电源管理
 - 电池状态
 - USB 3.0x2 USB 2.0x1
-- Intel 蓝牙
+- 蓝牙 (没有Win，不能进行热启动测试)
 - 睡眠唤醒
 - Fn 快捷键
 - 触摸板
@@ -57,9 +57,9 @@ Hackintosh for Asus X550VQ (HM170)
 ![facetime.jpg](https://github.com/bavelee/Asus_X550VQ-Hackintosh/raw/master/Screenshots/facetime.jpg)
 
 
-### 如果我的辛勤工作对您有所帮助的话，感谢您的捐赠鼓励
+# 如果我的辛勤工作对您有所帮助的话，感谢您的捐赠鼓励
 
-![alipay.png](https://bavelee.cn/usr/alipay_250x250.png)
+![alipay.png](https://github.com/bavelee/Asus_X550VQ-Hackintosh/raw/master/Screenshots/alipay_250x250.png)
 
-![wechat.png](https://bavelee.cn/usr/wechat_250x250.png)
+![wechat.png](https://github.com/bavelee/Asus_X550VQ-Hackintosh/raw/master/Screenshots/wechat_250x250.png)
 
