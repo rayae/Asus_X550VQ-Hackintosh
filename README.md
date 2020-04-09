@@ -44,11 +44,11 @@ Hackintosh for Asus X550VQ (HM170)
 
 10.15 需要安装 10.14 的 `IO80211Family.kext` 到 SLE：
 ```bash
-    sudo mount -uw / && killall Finder
-    sudo rm -r /System/Library/Extensions/IO80211Family.kext
-    sudo cp -r /path/to/your/EFI/CLOVER/kexts/10.15/IO80211Family.kext /System/Library/Extensions/
-    sudo kextcache -i /
-    sudo reboot
+sudo mount -uw / && killall Finder
+sudo rm -r /System/Library/Extensions/IO80211Family.kext
+sudo cp -r /path/to/your/EFI/CLOVER/kexts/10.15/IO80211Family.kext /System/Library/Extensions/
+sudo kextcache -i /
+sudo reboot
 ```
 
 ### 未测试的功能
