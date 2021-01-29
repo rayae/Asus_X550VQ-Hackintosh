@@ -381,20 +381,6 @@
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>model</key>
-				<string>Intel HD Graphics 530</string>
-				<key>framebuffer-patch1-enable</key>
-				<integer>1</integer>
 				<key>framebuffer-con0-type</key>
 				<data>AAQAAA==</data>
 				<key>framebuffer-con1-pipe</key>
@@ -407,8 +393,22 @@
 				<data>AAgAAA==</data>
 				<key>framebuffer-con3-enable</key>
 				<integer>1</integer>
+				<key>framebuffer-fbmem</key>
+				<data>AACQAA==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-patch1-enable</key>
+				<integer>1</integer>
 				<key>framebuffer-patch1-find</key>
 				<data>CgsDAAAHBgADAAAABAAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAwAQ==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>model</key>
+				<string>Intel HD Graphics 530</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -989,9 +989,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02642700GUHCF9UE</string>
+			<string>C02628802J9HCF91M</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1793</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1001,9 +1001,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SKCYYGTFN</string>
+			<string>C02S206AGTFN</string>
 			<key>SystemUUID</key>
-			<string>40D263DF-8C98-4840-9FE9-86F2949F8BDB</string>
+			<string>B9045E81-C668-488E-BC54-CB9C47EC68EB</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
